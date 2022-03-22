@@ -1,0 +1,12 @@
+---
+:id: 59410565
+:submitters:
+- :name: Robert Steele
+  :email: robert.steele002@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-14 17:28:37.622237000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-14 09:28:37.622237000 Z
+:status: processed
+:score: 150.0
